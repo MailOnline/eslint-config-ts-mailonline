@@ -48,7 +48,7 @@ const rules = {
       allowDestructuring: true
     }
   ],
-  '@typescript-eslint/no-unused-vars': 'off',
+  '@typescript-eslint/no-unused-vars': 'error',
   '@typescript-eslint/prefer-for-of': 'error',
   '@typescript-eslint/promise-function-async': 'error',
   '@typescript-eslint/restrict-plus-operands': 'error',
